@@ -1,0 +1,27 @@
+https://attendee.gotowebinar.com/rt/1225665622741473623
+
+
+
+
+https://www.microsoft.com/microsoft-teams/join-a-meeting
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
+
+
+
+
+Develop the system: Based on the requirements and the database design, you need to develop the system. This includes implementing the various features such as user authentication, order processing, inventory management, etc.
+
+5. Test the system: Once the system is developed, you need to test it thoroughly to ensure that it works as expected. This includes testing all the features and verifying that the system meets the requirements.
+
+6. Deploy the system: After testing, you need to deploy the system to a production
+
+environment so that it can be used by the cafe. This includes setting up the server. configuring the database, and ensuring that the system is accessible to users.
+ 7. Maintain and update the system: Finally, you need to maintain and update the system regularly to ensure that it continues to meet the requirements and remains secure. This includes fixing bugs, adding new features, and keeping the system up-to-date with the latest technologies.
